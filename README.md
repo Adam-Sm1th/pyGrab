@@ -4,3 +4,4 @@ Python爬虫大作业 服务端与客户端分离编写 服务端监测彩票网
 client 和 main都要运行才能正常运行
 如果运行不了检查client的接口请求和main的是否能对应上
 先启动main 再启动client
+a.sql为数据库文件，要配置完成
